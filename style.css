@@ -1,0 +1,79 @@
+body {
+    text-align: center;
+    margin: 0;
+    color: black;
+  }
+
+  header img {
+    width: 200px;
+    margin: 10px;
+  }
+
+  nav {
+    background-color: rgb(234, 231, 142);
+    padding: 15px;
+    border-top: 1px solid yellow;
+    color:rgb(7, 117, 154);
+    font-size: 0.8rem;
+    margin-bottom: 50px;
+  }
+
+  nav p span {
+    font-weight: bold;
+  }
+
+  h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  main {
+    width: 60%;
+    margin: auto;
+    text-align: left;
+  }
+
+  main img {
+    width: 100%;
+    border-radius: 10px;
+  }
+
+  h4 {
+    color: grey;
+    text-align: center;
+    margin-top: 5px;
+  }
+
+  section div {
+    border-left: 1px solid rgb(237, 181, 77);
+    padding-left: 10px;
+    margin-top: 20px;
+  }
+
+  section div span {
+    color: orange;
+    display: block;
+  }
+
+  a {
+    color: rgb(28, 149, 210);
+  }
+
+  #Ingredients h2 {
+    border-bottom: 1px solid rgb(197, 243, 243);
+    margin-bottom: 20px;
+    padding-bottom: 15px;
+  }
+
+  #Method h2 {
+    border-bottom: 1px solid rgb(197, 243, 243);
+    margin-bottom: 20px;
+    padding-bottom: 15px;
+  }
+
+  ul {
+    margin-bottom: 20px;
+  }
+
+  li {
+    margin-bottom: 15px; }
